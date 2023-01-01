@@ -1,0 +1,20 @@
+<RCC>
+    <qresource>
+        <file>ico/bookmark-new.png</file>
+        <file>ico/bookmarks-organize.png</file>
+        <file>ico/media-playback-pause.png</file>
+        <file>ico/media-playback-start.png</file>
+        <file>ico/media-playback-stop.png</file>
+        <file>ico/document-save-as.png</file>
+        <file>ico/document-close.png</file>
+        <file>ico/document-edit-sign.png</file>
+        <file>ico/document-open.png</file>
+        <file>ico/document-save-all.png</file>
+        <file>ico/configure.png</file>
+        <file>ico/quickopen-file.png</file>
+        <file>ico/scomoroh.png</file>
+        <file>scripts/fc</file>
+        <file>scripts/fp</file>
+        <file>testtemp.txt</file>
+    </qresource>
+</RCC>

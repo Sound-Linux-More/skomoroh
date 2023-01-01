@@ -1,0 +1,6 @@
+#!/bin/bash
+# espeak -vru+m1 -p $3 -f $1/$2.txt -w $1/$2.wav
+# $3ru_tts -s $3lexicon < "$1/$2.txt" > "$1/$2.raw"
+# RHVoice -p $3 < "$1/$2.txt" > "$1/$2.wav"
+# RHVoice-test -p $3 -i "$1/$2.txt" -o "$1/$2.wav"
+RHVoice-test -p elena -t $3 -i "$1/$2.txt" -o "$1/$2.wav"
